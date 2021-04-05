@@ -1,0 +1,14 @@
+{
+  "name": "@leandromarques1/projeto-final-visualizacao-de-dados-ufc-2020-2",
+  "main": "19d1a8dabcc49d99@283.js",
+  "version": "283.0.0",
+  "homepage": "https://observablehq.com/@leandromarques1/projeto-final-visualizacao-de-dados-ufc-2020-2",
+  "author": {
+    "name": "Anderson Leandro Marques",
+    "url": "https://observablehq.com/@leandromarques1"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
